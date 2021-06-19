@@ -1,0 +1,1 @@
+//findPivot(arr, startIndex, mid-1)
